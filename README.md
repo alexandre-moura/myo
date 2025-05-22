@@ -6,17 +6,15 @@
 
 ## Features
 
-- Randomizes advanced training techniques each session
+- Randomizes advanced training techniques for experimentation and discovery each session
 - Saves technique history for easy reference
-- Persistent storage (MMKV) — your history is safe even if the app closes
 - Smooth, fast UI powered by Expo, NativeWind, and Moti
-- Built with performance and aesthetics in mind
 
 ---
 
 ## Screenshots
 
-*(Coming soon — add demo GIFs or screenshots here)*
+*(Coming soon)*
 
 ---
 
